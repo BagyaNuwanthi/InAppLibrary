@@ -1,0 +1,9 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <WebView
+        android:id="@+id/inAPpWebView"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:contentDescription="test"
+        android:layout_centerInParent="true"/>
+</merge>
